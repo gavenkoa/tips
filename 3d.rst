@@ -1,0 +1,22 @@
+.. -*- coding: utf-8; -*-
+.. include:: HEADER.rst
+
+=====
+ 3D.
+=====
+.. contents::
+
+Pov-Ray.
+========
+
+The Persistence of Vision Raytracer, or POV-Ray, is a ray tracing program.
+
+  http://www.povray.org/
+                home page
+  http://en.wikipedia.org/wiki/POV-Ray
+                POV Ray
+  http://xahlee.org/3d/povray.html
+                POV Ray
+  http://xahlee.org/3d/povray_emacs.html
+                POV Ray
+

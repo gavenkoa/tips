@@ -1,0 +1,85 @@
+.. -*- coding: utf-8; -*-
+.. include:: HEADER.rst
+
+=======
+ i18n.
+=======
+.. contents::
+
+Microsoft.
+==========
+
+  http://www.microsoft.com/Language/en-US/Default.aspx
+                Microsoft Language Portal.
+
+Microsoft Terminology Collection.
+---------------------------------
+
+  http://www.microsoft.com/Language/en-US/Terminology.aspx
+                download page
+
+Style Guide.
+------------
+
+Microsoft Style Guides are collections of rules that define language and style
+conventions for specific languages.
+
+  http://www.microsoft.com/Language/en-US/StyleGuides.aspx
+                download page
+
+Microsoft Translator.
+---------------------
+
+  http://www.microsofttranslator.com/
+                home page
+
+Microsoft Manual of Style for Technical Publications.
+-----------------------------------------------------
+
+3rd edition is a free download in .chm format, but Microsoft make it no longer
+available.
+
+Translation guides.
+===================
+
+ * https://help.launchpad.net/Translations/GuidesList/Russian
+ * http://l10n.kde.org/docs/translation-howto/
+
+Translation techniques.
+=======================
+
+PO Summit.
+----------
+
+Instead of translating in different branches (as trunk and stable) it make PO
+file with uniquer messages from those branches. So you have one PO file and
+scripts allow pull uniquer messanges and merge translation back to corresponding
+branches.
+
+  http://techbase.kde.org/Localization/Workflows/PO_Summit
+                KDE about PO Summit.
+
+Is translation complete?
+========================
+
+  http://l10n.kde.org/docs/translation-howto/starting-translation.html
+                For GUI translation of KDE. The official rule for release
+                versions says around 90% of kdelibs4.pot, 75% of
+                desktop_kdelibs.pot and desktop_l10n.pot and around 75% of
+                kdebase should be translated in order to get into a release.
+
+Transliteration.
+================
+
+ГОСТ 7.79-2000 аналогичен ISO 9 и действует в::
+
+  Азербайджане Армении Беларуси Казахстане Киргизии России Таджикистане Туркмении Узбекистане
+
+See:
+
+  http://ru.wikipedia.org/wiki/ISO_9
+                Транслитерация кириллических алфавитов славянских и неславянских языков посредством латиницы.
+  http://zakon1.rada.gov.ua/cgi-bin/laws/main.cgi?nreg=55-2010-%EF&p=1264427739007490
+                Про впорядкування транслітерації українського алфавіту латиницею.
+
+
